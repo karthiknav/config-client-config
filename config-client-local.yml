@@ -1,0 +1,4 @@
+rest.message: "Hi from Git"
+
+server:
+  port: 8080
