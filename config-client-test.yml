@@ -1,0 +1,4 @@
+rest.message: "Hi from Git - Test env"
+
+server:
+  port: 8080
